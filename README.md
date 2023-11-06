@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="https://cdn.discordapp.com/attachments/1164631340088561845/1165039354213847051/banner.jpg" alt="Rapid" width="850" style="border-radius: 30px"></a>
-</h1>
+<p align="center">
+  <img src="https://github.com/salvatorepolverino/rapidtest/assets/109186462/a250fc91-bb3e-41e5-97a5-c8c3c4bdb58f" alt="animated" width="850"/>
+</p>
   <p align="center">
     <a href="https://github.com/Rapid-OS/Rapid/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/rapid-os/rapid?style=for-the-badge&logo=github&color=1A91FF"/></a><a href="https://github.com/Rapid-OS/Rapid/graphs/contributors"><img alt="Contributors" src="https://img.shields.io/github/contributors/rapid-os/rapid?style=for-the-badge&color=1A91FF"/></a><a href="https://github.com/Rapid-OS/Rapid/releases/latest"><img alt="Release" src="https://img.shields.io/github/release/rapid-os/rapid?style=for-the-badge&color=1A91FF" /></a><a href="https://github.com/Rapid-OS/Rapid/releases"><img alt="Release Downloads" src="https://img.shields.io/github/downloads/Rapid-OS/Rapid/total?style=for-the-badge&logo=github&color=1A91FF" /></a>
   </p>
