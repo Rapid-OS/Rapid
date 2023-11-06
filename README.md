@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/salvatorepolverino/rapidtest/assets/109186462/a250fc91-bb3e-41e5-97a5-c8c3c4bdb58f" alt="animated" width="850"/>
+  <img src="https://github.com/Rapid-OS/Rapid/assets/109186462/92087cb5-4aa7-42b7-b524-a22ab22f9abb" alt="animated" width="850"/>
 </p>
   <p align="center">
     <a href="https://github.com/Rapid-OS/Rapid/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/rapid-os/rapid?style=for-the-badge&logo=github&color=1A91FF"/></a><a href="https://github.com/Rapid-OS/Rapid/graphs/contributors"><img alt="Contributors" src="https://img.shields.io/github/contributors/rapid-os/rapid?style=for-the-badge&color=1A91FF"/></a><a href="https://github.com/Rapid-OS/Rapid/releases/latest"><img alt="Release" src="https://img.shields.io/github/release/rapid-os/rapid?style=for-the-badge&color=1A91FF" /></a><a href="https://github.com/Rapid-OS/Rapid/releases"><img alt="Release Downloads" src="https://img.shields.io/github/downloads/Rapid-OS/Rapid/total?style=for-the-badge&logo=github&color=1A91FF" /></a>
