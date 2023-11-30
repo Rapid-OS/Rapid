@@ -76,7 +76,7 @@ Features disabled by default but can re-enable:
 - User Account Control (UAC)
 - Start Menu and Search (replaced by Openshell)
 
-## Credits
+## ©️ Credits
 We sincerely thank [Atlas OS](https://github.com/Atlas-OS/Atlas) for their invaluable contribution to this project. Significant portions of code and scripts have been adapted from Atlas OS, contributing significantly to the success of this project.
 
 ## 🔒 Legal
